@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D5, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D6, D60, D61, D62, D7, D8, D9",Diode_DO-35,62,Diode,
+"S1, S10, S11, S12, S13, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S3, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S4, S40, S43, S44, S45, S46, S47, S48, S49, S5, S50, S51, S52, S53, S6, S60, S7, S8, S9",MX_PCB_1.00u,48,Keyswitch,
+S14,MXOnly-2U,1,Keyswitch,
+"S15, S28, S55, S56, S61, S62",MX_PCB_1.50u,6,Keyswitch,
+S29,MX_PCB_1.75u,1,Keyswitch,
+"S41, S42",MXOnly-2.25U,2,Keyswitch,
+"S54, S57",MXOnly-2.75U,2,Keyswitch,
+S58,MX_PCB_1.25u,1,Keyswitch,
+S59,MXOnly-3U,1,Keyswitch,
+U2,Elite-C-castellated-29pin-holes,1,Elite-C,
