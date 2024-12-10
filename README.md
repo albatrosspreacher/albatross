@@ -45,4 +45,5 @@ The cut at the bottom of the case and PCB has an upward arrow highlighting the a
 This keyboard's assembly and PCB design would have been impossible without the support and help of many folks, especially Joey Castillo. Huge shoutout – thanks, Joey!
 
 ### Future Work
+
 Using a thin material like 1.5mm acrylic for the keyboard proved beneficial for aesthetics and acoustics but required careful handling due to its fragility, as a small crack occurred during assembly. Planned improvements for the next iteration include adjusting the spacing between the “>” and “:” keys for better usability, adding a silkscreen design to the top layer for enhanced aesthetics, and designing a cover with an integrated wrist rest for improved ergonomics. Additionally, since this is a sensory-friendly board, creating a cover to hide the bright blue light from the Elite-C microcontroller is a priority. Exploring a switch to a BLE-supported microcontroller paired with a long-lasting battery is also under consideration. Further plans involve testing more variations of ergonomic layouts and experimenting with different case angles to optimize comfort and functionality.
