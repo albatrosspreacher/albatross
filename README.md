@@ -1,4 +1,4 @@
-# Albatross - An ergonomic keyboard
+# Albatross
 
 The Albatross is a modified version of the Alice layout. This is a split-fixed, 62-key, staggered keyboard. The current version does **not** have - hotswap, backlight (of any kind), and wireless capabilities.
 
